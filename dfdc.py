@@ -7,8 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1ePfluDse6CUmHUgCakx1fCsdw7ibHYbF
 """
 
-pip install opencv-python
-
 import streamlit as st
 import cv2
 import numpy as np
